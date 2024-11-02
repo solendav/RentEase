@@ -1,0 +1,111 @@
+[
+    {
+      "id": 1,
+      "name": "Toyota Camry",
+      "image": "https://www.bing.com/images/search?view=detailV2&ccid=QkVsPpAK&id=14C50E8D30D1E362215E2564A6D92E3B4541BC13&thid=OIP.QkVsPpAKQ340IOw9Ir4w-wAAAA&mediaurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.42456c3e900a437e3420ec3d22be30fb%3frik%3dE7xBRTsu2aZkJQ%26riu%3dhttp%253a%252f%252fimages.car.bauercdn.com%252fpagefiles%252f74108%252ftoyota_hybrids_01.jpg%26ehk%3dkPp%252fqRrvNnPOA7U22hzZp10%252faX%252fg%252fPLuaeJZ91ZsoAo%253d%26risl%3d%26pid%3dImgRaw%26r%3d0&exph=315&expw=474&q=toyota+cars&simid=608041802244782122&FORM=IRPRST&ck=C92CCBDA47E53E864B5C59C0FB3D390A&selectedIndex=2&itb=0",
+      "description": "Well-maintained Toyota Camry in excellent condition.",
+      "price": "$15,000",
+      "location": "Addis Ababa, Ethiopia",
+      "category": "car"
+    },
+    {
+      "id": 2,
+      "name": "Spacious Villa",
+      "image": "https://www.bing.com/images/search?view=detailV2&ccid=SQBYmy%2fh&id=343CC1A35E788EBCF6B423CFF1399815F569D90B&thid=OIP.SQBYmy_hZew7AFHVDHr3BgAAAA&mediaurl=https%3a%2f%2fi.pinimg.com%2foriginals%2fc5%2fd5%2f50%2fc5d550125f4e4ddef104208d023a6427.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.4900589b2fe165ec3b0051d50c7af706%3frik%3dC9lp9RWYOfHPIw%26pid%3dImgRaw%26r%3d0&exph=315&expw=474&q=villa+images&simid=608045431510297928&FORM=IRPRST&ck=9D612B26C512E05A9F7622F73738128E&selectedIndex=4&itb=0",
+      "description": "Luxurious villa with garden and pool.",
+      "price": "$500,000",
+      "location": "Addis Ababa, Ethiopia",
+      "category": "house"
+    },
+    {
+      "id": 3,
+      "name": "Mountain Bike",
+      "image": "https://www.istockphoto.com/photo/bicycle-blue-sky-isolated-on-white-background-with-clipping-path-gm1420196426-466293124",
+      "description": "High-performance mountain bike with full suspension.",
+      "price": "$1,200",
+      "location": "Addis Ababa, Ethiopia",
+      "category": "bike"
+    },
+    {
+      "id": 4,
+      "name": "Samsung 4K TV",
+      "image": "./../assets/images/bike.jpg",
+       "description": "Large 65-inch Samsung 4K Ultra HD Smart TV.",
+      "price": "$1,500",
+      "location": "Addis Ababa, Ethiopia",
+      "category": "electronics"
+    },
+    {
+      "id": 5,
+      "name": "Modern Apartment",
+      "image": "https://www.bing.com/images/search?view=detailV2&ccid=kMv6A0yW&id=87F5F18AEEC0193496A40AF2C1A4DE16971F9249&thid=OIP.kMv6A0yW71j3z1tRpWxXjgHaE6&mediaurl=https%3a%2f%2fwww.gbdarchitects.com%2fwp-content%2fuploads%2f2013%2f09%2fKiln-Apartments-1.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.90cbfa034c96ef58f7cf5b51a56c578e%3frik%3dSZIflxbepMHyCg%26pid%3dImgRaw%26r%3d0&exph=2658&expw=4000&q=apartment&simid=608053256897582568&FORM=IRPRST&ck=73D31BBC1B9C6856C3099E31EA405ED8&selectedIndex=1&itb=0",
+      "description": "Newly renovated modern apartment with city views.",
+      "price": "$300,000",
+      "location": "Addis Ababa, Ethiopia",
+      "category": "apartment"
+    },
+    {
+      "id": 6,
+      "name": "Complete Collection of Shakespeare",
+      "image": "https://www.bing.com/images/search?view=detailV2&ccid=OkWRmfNx&id=53CB7E3C9CE452D5B3CA6590726D442666BD97B2&thid=OIP.OkWRmfNxSTgWlozbQrJBkAAAAA&mediaurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.3a459199f371493816968cdb42b24190%3frik%3dspe9ZiZEbXKQZQ%26riu%3dhttp%253a%252f%252fprodimage.images-bn.com%252fpimages%252f9781435154476_p0_v1_s1200x630.jpg%26ehk%3dBBWvRf9T8y0c54r4lsudwzTpS%252bPuQ%252fPE%252fxW6QmQCN0U%253d%26risl%3d%26pid%3dImgRaw%26r%3d0&exph=630&expw=422&q=Complete+Collection+of+Shakespeare+book&simid=608047218197483363&FORM=IRPRST&ck=9F7B1B9FE51A11B60F747A182912BCE1&selectedIndex=2&itb=0",
+      "description": "Complete set of Shakespeare's works in leather-bound books.",
+      "price": "$500",
+      "location": "Addis Ababa, Ethiopia",
+      "category": "books"
+    },
+    {
+      "id": 7,
+      "name": "Honda Civic",
+      "image": "honda_civic.jpg",
+      "description": "Honda Civic with low mileage and excellent fuel efficiency.",
+      "price": "$12,000",
+      "location": "Addis Ababa, Ethiopia",
+      "category": "car"
+    },
+    {
+      "id": 8,
+      "name": "Beachfront Property",
+      "image": "beachfront_property.jpg",
+      "description": "Beautiful beachfront property with private access to the beach.",
+      "price": "$1,200,000",
+      "location": "Addis Ababa, Ethiopia",
+      "category": "house"
+    },
+    {
+      "id": 9,
+      "name": "Road Bike",
+      "image": "road_bike.jpg",
+      "description": "Lightweight road bike with carbon frame.",
+      "price": "$2,000",
+      "location": "Addis Ababa, Ethiopia",
+      "category": "bike"
+    },
+    {
+      "id": 10,
+      "name": "Apple MacBook Pro",
+      "image": "macbook_pro.jpg",
+      "description": "High-performance Apple MacBook Pro with Retina display.",
+      "price": "$2,500",
+      "location": "Addis Ababa, Ethiopia",
+      "category": "electronics"
+    },
+    {
+      "id": 11,
+      "name": "Luxury Penthouse",
+      "image": "luxury_penthouse.jpg",
+      "description": "Luxurious penthouse apartment with panoramic city views.",
+      "price": "$800,000",
+      "location": "Addis Ababa, Ethiopia",
+      "category": "apartment"
+    },
+    {
+      "id": 12,
+      "name": "Collection of Classic Novels",
+      "image": "classic_novels.jpg",
+      "description": "Collection of classic novels by various authors.",
+      "price": "$300",
+      "location": "Addis Ababa, Ethiopia",
+      "category": "books"
+    }
+  ]
+  
